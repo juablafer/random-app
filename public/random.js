@@ -22,5 +22,3 @@ function getAppVersion() {
 function init() {
     getAppVersion();
 }
-
-module.exports = generateRandomNumber;
